@@ -2,7 +2,7 @@
 Introduce _blueprints_ (_aka_ decision records), a way to formalize and document important architectural decisions within the team. _Blueprints_ will provide a structured approach to capture, communicate and enforce architectural decisions, enabling developers to understand the rationale behind each decision, and define an architectural roadmap for our codebase.
 
 ## Status
-Accepted
+Proposed
 
 ## Context
 Discussing and documenting broader decisions only through Trello cards presents challenges. Ultimately, these decisions are typically discussed and approved during team meetings, only to fade into the Trello void over time, and erased from our memories.
