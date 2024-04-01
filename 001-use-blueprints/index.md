@@ -5,9 +5,7 @@ Introduce _blueprints_ (_aka_ decision records), a way to formalize and document
 Accepted
 
 ## Context
-Our team is now actively working on improving our codebase. Introducing a dedicated Trello board for suggesting improvements to our codebase is a great initiative.
-
-However, discussing and documenting broader decisions only through Trello cards presents challenges. Ultimately, these decisions are typically discussed and approved during team meetings, only to fade into the Trello void over time, and erased from our memories.
+Discussing and documenting broader decisions only through Trello cards presents challenges. Ultimately, these decisions are typically discussed and approved during team meetings, only to fade into the Trello void over time, and erased from our memories.
 
 This leads to ambiguity, misunderstandings, inconsistencies, and difficulty in tracking the rationale behind design choices (_eg_, "Why do we use service objects?", "Why is the project splitted by app?"). As our project scales and becomes more complex, it's crucial to establish a formalized system for capturing, communicating, and enforcing these decisions.
 
