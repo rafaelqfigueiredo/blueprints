@@ -32,7 +32,7 @@ It's better to avoid either blindly accept or blindly reverse a decision.
 A _blueprint_ is a document that captures an important decision made along with its context and consequences. The document you are reading is itself a _blueprint_!
 
 ### Workflow
-1. A developer creates a PR with a _blueprint_, [using this template](docs/blueprints/_template.md), outlining an approach for a particular question or problem. The _blueprint_ has an initial status of "proposed".
+1. A developer creates a PR with a _blueprint_, [using this template](../_template.md), outlining an approach for a particular question or problem. The _blueprint_ has an initial status of "proposed".
 2. The developers discuss the _blueprint_. During this period, the _blueprint_ should be updated to reflect additional context, concerns raised, and proposed changes.
 3. Once consensus is reached, the _blueprint_ can be transitioned to either an "accepted" or "rejected" state.
 4. Only after a _blueprint_ is accepted should implementing code be committed (status "ongoing" or "implemented").
